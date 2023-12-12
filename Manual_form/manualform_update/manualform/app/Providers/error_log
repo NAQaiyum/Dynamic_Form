@@ -1,0 +1,68 @@
+[17-Nov-2023 18:01:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\RouteServiceProvider" not found in /home/itotobbo/public_html/manualform/app/Providers/RouteServiceProvider.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/itotobbo/public_html/manualform/app/Providers/RouteServiceProvider.php on line 11
+[17-Nov-2023 18:01:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/itotobbo/public_html/manualform/app/Providers/AppServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/itotobbo/public_html/manualform/app/Providers/AppServiceProvider.php on line 7
+[17-Nov-2023 18:01:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/itotobbo/public_html/manualform/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/itotobbo/public_html/manualform/app/Providers/BroadcastServiceProvider.php on line 8
+[17-Nov-2023 18:02:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/itotobbo/public_html/manualform/app/Providers/AppServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/itotobbo/public_html/manualform/app/Providers/AppServiceProvider.php on line 7
+[17-Nov-2023 18:02:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\RouteServiceProvider" not found in /home/itotobbo/public_html/manualform/app/Providers/RouteServiceProvider.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/itotobbo/public_html/manualform/app/Providers/RouteServiceProvider.php on line 11
+[17-Nov-2023 18:02:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/itotobbo/public_html/manualform/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/itotobbo/public_html/manualform/app/Providers/BroadcastServiceProvider.php on line 8
+[17-Nov-2023 21:23:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/itotobbo/public_html/manualform/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/itotobbo/public_html/manualform/app/Providers/BroadcastServiceProvider.php on line 8
+[18-Nov-2023 18:49:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\RouteServiceProvider" not found in /home/itotobbo/public_html/manualform/app/Providers/RouteServiceProvider.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/itotobbo/public_html/manualform/app/Providers/RouteServiceProvider.php on line 11
+[19-Nov-2023 00:01:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/itotobbo/public_html/manualform/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/itotobbo/public_html/manualform/app/Providers/BroadcastServiceProvider.php on line 8
+[19-Nov-2023 00:01:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/itotobbo/public_html/manualform/app/Providers/AppServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/itotobbo/public_html/manualform/app/Providers/AppServiceProvider.php on line 7
+[19-Nov-2023 00:01:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\RouteServiceProvider" not found in /home/itotobbo/public_html/manualform/app/Providers/RouteServiceProvider.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/itotobbo/public_html/manualform/app/Providers/RouteServiceProvider.php on line 11
+[19-Nov-2023 00:02:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\RouteServiceProvider" not found in /home/itotobbo/public_html/manualform/app/Providers/RouteServiceProvider.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/itotobbo/public_html/manualform/app/Providers/RouteServiceProvider.php on line 11
+[19-Nov-2023 00:02:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/itotobbo/public_html/manualform/app/Providers/AppServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/itotobbo/public_html/manualform/app/Providers/AppServiceProvider.php on line 7
+[19-Nov-2023 00:02:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/itotobbo/public_html/manualform/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/itotobbo/public_html/manualform/app/Providers/BroadcastServiceProvider.php on line 8
+[19-Nov-2023 07:10:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\AuthServiceProvider" not found in /home/itotobbo/public_html/manualform/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/itotobbo/public_html/manualform/app/Providers/AuthServiceProvider.php on line 8
+[19-Nov-2023 10:06:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/itotobbo/public_html/manualform/app/Providers/AppServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/itotobbo/public_html/manualform/app/Providers/AppServiceProvider.php on line 7
+[20-Nov-2023 12:29:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\AuthServiceProvider" not found in /home/itotobbo/public_html/manualform/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/itotobbo/public_html/manualform/app/Providers/AuthServiceProvider.php on line 8

@@ -1,0 +1,88 @@
+[17-Nov-2023 06:34:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/itotobbo/public_html/manualform/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/itotobbo/public_html/manualform/routes/console.php on line 17
+[17-Nov-2023 06:34:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/itotobbo/public_html/manualform/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/itotobbo/public_html/manualform/routes/channels.php on line 16
+[17-Nov-2023 06:34:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/itotobbo/public_html/manualform/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/itotobbo/public_html/manualform/routes/channels.php on line 16
+[17-Nov-2023 06:34:14 UTC] PHP Fatal error:  Uncaught Error: Class "Auth" not found in /home/itotobbo/public_html/manualform/routes/web.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/itotobbo/public_html/manualform/routes/web.php on line 7
+[17-Nov-2023 06:34:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/itotobbo/public_html/manualform/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/itotobbo/public_html/manualform/routes/console.php on line 17
+[17-Nov-2023 06:34:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/itotobbo/public_html/manualform/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/itotobbo/public_html/manualform/routes/api.php on line 17
+[17-Nov-2023 06:34:16 UTC] PHP Fatal error:  Uncaught Error: Class "Auth" not found in /home/itotobbo/public_html/manualform/routes/web.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/itotobbo/public_html/manualform/routes/web.php on line 7
+[17-Nov-2023 06:34:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/itotobbo/public_html/manualform/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/itotobbo/public_html/manualform/routes/api.php on line 17
+[17-Nov-2023 06:34:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/itotobbo/public_html/manualform/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/itotobbo/public_html/manualform/routes/api.php on line 17
+[17-Nov-2023 06:34:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/itotobbo/public_html/manualform/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/itotobbo/public_html/manualform/routes/api.php on line 17
+[17-Nov-2023 06:34:18 UTC] PHP Fatal error:  Uncaught Error: Class "Auth" not found in /home/itotobbo/public_html/manualform/routes/web.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/itotobbo/public_html/manualform/routes/web.php on line 7
+[17-Nov-2023 06:34:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/itotobbo/public_html/manualform/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/itotobbo/public_html/manualform/routes/channels.php on line 16
+[17-Nov-2023 06:34:35 UTC] PHP Fatal error:  Uncaught Error: Class "Auth" not found in /home/itotobbo/public_html/manualform/routes/web.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/itotobbo/public_html/manualform/routes/web.php on line 7
+[17-Nov-2023 06:34:36 UTC] PHP Fatal error:  Uncaught Error: Class "Auth" not found in /home/itotobbo/public_html/manualform/routes/web.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/itotobbo/public_html/manualform/routes/web.php on line 7
+[17-Nov-2023 06:34:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/itotobbo/public_html/manualform/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/itotobbo/public_html/manualform/routes/console.php on line 17
+[17-Nov-2023 06:35:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/itotobbo/public_html/manualform/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/itotobbo/public_html/manualform/routes/channels.php on line 16
+[17-Nov-2023 06:35:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/itotobbo/public_html/manualform/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/itotobbo/public_html/manualform/routes/api.php on line 17
+[17-Nov-2023 06:35:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/itotobbo/public_html/manualform/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/itotobbo/public_html/manualform/routes/api.php on line 17
+[17-Nov-2023 18:08:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/itotobbo/public_html/manualform/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/itotobbo/public_html/manualform/routes/api.php on line 17
+[17-Nov-2023 18:08:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/itotobbo/public_html/manualform/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/itotobbo/public_html/manualform/routes/api.php on line 17
+[17-Nov-2023 18:08:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/itotobbo/public_html/manualform/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/itotobbo/public_html/manualform/routes/api.php on line 17
+[17-Nov-2023 18:08:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/itotobbo/public_html/manualform/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/itotobbo/public_html/manualform/routes/api.php on line 17

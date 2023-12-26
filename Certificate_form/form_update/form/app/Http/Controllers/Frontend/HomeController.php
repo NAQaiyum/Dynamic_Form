@@ -11,13 +11,13 @@ class HomeController extends Controller
     public function index(){
         return View('frontend.home.index');
     }
-    
+
     public function save(Request $request){
         ini_set('memory_limit','-1');
         $validator = Validator::make($request->all(), [
             'icon'          => 'image|mimes:jpeg,png,jpg,gif,svg|max:2048',
         ]);
-    
+
         if ($validator->fails()) {
             notify()->error('Image Size invalied');
             return redirect()->back();
@@ -34,7 +34,7 @@ class HomeController extends Controller
             $signature_1->move(public_path($destination), $photo);
 
             $signature_1 	        = $destination.'/'.$photo;
-            $signature_1Attributes     = [ 
+            $signature_1Attributes     = [
                 'signature_1'    => $signature_1,
             ];
         }
@@ -45,11 +45,11 @@ class HomeController extends Controller
             $signature_2->move(public_path($destination), $photo);
 
             $signature_2 	        = $destination.'/'.$photo;
-            $signature_2Attributes     = [ 
+            $signature_2Attributes     = [
                 'signature_2'    => $signature_2,
             ];
         }
-        
+
         $attributes         = [
             'ex_name'                   => strip_tags($request->ex_name),
             'ex_address'                => strip_tags($request->ex_address),
@@ -80,7 +80,7 @@ class HomeController extends Controller
             return redirect()->route('frontend::invoice.details',['certificate_origin_no'=>$submit->certificate_origin_no, 'serialno'=>$submit->serialno] );
         }catch (\Illuminate\Database\QueryException $ex) {
             return $ex->getMessage();
-            
+
             return redirect()->back()->withErrors($ex->getMessage())
                 ->with('myexcep', $ex->getMessage())->withInput();
         }
@@ -105,7 +105,7 @@ class HomeController extends Controller
         }else{
             return View('frontend.home.print',compact('getData'));
         }
-        
+
     }
     // public function details(Request $request){
     //     return $request;
